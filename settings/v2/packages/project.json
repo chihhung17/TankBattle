@@ -1,0 +1,45 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 1280,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "player"
+      },
+      {
+        "index": 2,
+        "name": "enemy"
+      },
+      {
+        "index": 3,
+        "name": "playerbullet"
+      },
+      {
+        "index": 4,
+        "name": "EnemyBullet"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 31,
+      "1": 21,
+      "2": 15,
+      "3": 21,
+      "4": 11
+    }
+  },
+  "layer": [
+    {
+      "name": "UI",
+      "value": 1
+    }
+  ],
+  "custom_joint_texture_layouts": []
+}

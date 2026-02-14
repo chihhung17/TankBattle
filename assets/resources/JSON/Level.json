@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "level01",
+        "Timer": 20,
+        "spawnRate": 1,
+        "enemySpeed": 2.2,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 2,
+        "name": "level02",
+        "Timer": 20,
+        "spawnRate": 1.5,
+        "enemySpeed": 2.4,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 3,
+        "name": "level03",
+        "Timer": 20,
+        "spawnRate": 2,
+        "enemySpeed": 2.6,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 4,
+        "name": "level04",
+        "Timer": 20,
+        "spawnRate": 2.4,
+        "enemySpeed": 2.9,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 5,
+        "name": "level05",
+        "Timer": 20,
+        "spawnRate": 2.8,
+        "enemySpeed": 3.2,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 6,
+        "name": "level06",
+        "Timer": 20,
+        "spawnRate": 3.2,
+        "enemySpeed": 3.5,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 7,
+        "name": "level07",
+        "Timer": 20,
+        "spawnRate": 3.6,
+        "enemySpeed": 3.8,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 8,
+        "name": "level08",
+        "Timer": 20,
+        "spawnRate": 4.0,
+        "enemySpeed": 4.2,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 9,
+        "name": "level09",
+        "Timer": 20,
+        "spawnRate": 4.4,
+        "enemySpeed": 4.6,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 10,
+        "name": "level10",
+        "Timer": 20,
+        "spawnRate": 4.8,
+        "enemySpeed": 5.0,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    },
+    {
+        "id": 666,
+        "name": "level666",
+        "Timer": 20,
+        "spawnRate": 1,
+        "enemySpeed": 2,
+        "enemy1Prefab": "Prefabs/EnemySDark",
+        "enemy1Bullet": "Prefabs/EnemyBulletDark",
+        "map": "Map/level01"
+    }
+]

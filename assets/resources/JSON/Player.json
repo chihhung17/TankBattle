@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Green",
+        "HP": 30,
+        "prefab": "Prefabs/TankGreenL",
+        "speed": 5,
+        "bulletPrefab": "Prefabs/BulletGreenL",
+        "bulletName":"BulletGreenL",
+        "fireRate": 2,
+        "radius": 200,
+        "bulletSpeed": 12,
+        "spf": "Sprites/tank_green/spriteFrame"
+    },
+    {
+        "id": 2,
+        "name": "Blue",
+        "HP": 60,
+        "prefab": "Prefabs/TankBlueL",
+        "speed": 8,
+        "bulletPrefab": "Prefabs/BulletBlueL",
+        "bulletName":"BulletBlueL",
+        "fireRate":2,
+        "radius": 320,
+        "bulletSpeed": 9,
+        "spf": "Sprites/tank_blue/spriteFrame"
+    },
+    {
+        "id": 3,
+        "name": "Red",
+        "HP": 50,
+        "prefab": "Prefabs/TankRedL",
+        "speed": 6,
+        "bulletPrefab": "Prefabs/BulletRedL",
+        "bulletName":"BulletRedL",
+        "fireRate": 3,
+        "radius": 280,
+        "bulletSpeed": 14,
+        "spf": "Sprites/tank_red/spriteFrame"
+    }
+
+]

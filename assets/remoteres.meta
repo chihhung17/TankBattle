@@ -1,0 +1,13 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "05062d7a-7133-4eb6-98dc-c6ebdfa8bc66",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleName": "remoteres",
+    "priority": 9
+  }
+}

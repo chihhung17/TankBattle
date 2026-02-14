@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Bomb01",
+        "path": "Audios/Bomb1"
+    },
+    {
+        "id": 2,
+        "name": "Bomb02",
+        "path": "Audios/Bomb2"
+    },
+    {
+        "id": 3,
+        "name": "Bgm1",
+        "path": "Audios/bgm1"
+    },
+    {
+        "id": 6,
+        "name": "Shoot2",
+        "path": "Audios/shoot2"
+    },
+    {
+        "id": 7,
+        "name": "click",
+        "path": "Audios/tap-a"
+    },
+    {
+        "id": 8,
+        "name":"EnemyShoot",
+        "path":"Audios/EnemyShoot"
+    }
+]
